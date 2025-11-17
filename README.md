@@ -1,6 +1,6 @@
-# Valentine Surprise
+# Happy Teacher Day 2025
 
-## 💌 About the Project
+## About the Project
 
 A simple and charming Valentine's Day animation featuring an interactive envelope with a hidden love message and a beautiful floral scene.
 
